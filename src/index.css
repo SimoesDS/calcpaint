@@ -1,0 +1,19 @@
+#root {
+  width: 100%;
+  display: flex;
+}
+
+:root {
+  font-family: Ubuntu, sans-serif;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #1f1f1f;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-height: 100vh;
+}

@@ -1,0 +1,16 @@
+.wall-main {
+    border: solid 1px white;
+    padding: 7px;
+    width: 12rem;
+    height: 20rem;
+}
+
+section {
+    width: 100%;
+}
+
+section input {
+    width: 50%;
+    margin-right: 5px;
+    margin-top: 5px;
+}
